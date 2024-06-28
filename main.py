@@ -8,7 +8,8 @@ def main():
     Code Your Program here
     ########################################
     """
-
+    for x in range(N+1):
+        result.append(2^N)
     ########################################
     # Do not delete the return statement
     ########################################

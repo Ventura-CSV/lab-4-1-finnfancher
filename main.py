@@ -9,7 +9,9 @@ def main():
     ########################################
     """
     for x in range(N+1):
-        result.append(2^N)
+        result.append(2**x)
+        
+    print(result)
     ########################################
     # Do not delete the return statement
     ########################################
